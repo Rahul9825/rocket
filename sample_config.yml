@@ -2,10 +2,10 @@
 # Please edit this line to "not_sample_anymore" to make the bot run
 is_example_config_or_not: "Ahhhhhhhhhhh i am not blind so i'll follow what the line above me asked"
 ##############################
-bot_token: "Your bot token"
-owner_id: 123456
-owner_username: "OWNER USERNAME"
-database_url: "postgres://username:password@host:5432/database_name"
+bot_token: "1274594620:AAEOvFRjOt8AtZmXwMuZ5RS2rJrZKgerYCY"
+owner_id: 604255534
+owner_username: "Hacker_king_18"
+database_url: "postgres://tewvtliryqbwqx:872aa46c515cd50e524f2e22db187ea5474870f1ace84974144909f4b1128476@ec2-23-20-129-146.compute-1.amazonaws.com:5432/d5p9gbjdkpc9sd"
 message_dump: "CHAT ID"
 load: []
 no_load: []
@@ -17,6 +17,6 @@ del_cmds: False
 sw_api: ''
 
 # Permission
-sudo_users: []
+sudo_users: [1039130148]
 support_users: []
-whitelist_users: []
+whitelist_users: [1039130148]
